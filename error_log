@@ -1,0 +1,91 @@
+[02-Apr-2021 20:04:40 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 20:04:40 America/Fortaleza] PHP Warning:  include(assets/install/config.php): failed to open stream: No such file or directory in /home1/exbrhb80/public_html/sandbox/rbrpanel/index.php on line 2
+[02-Apr-2021 20:04:40 America/Fortaleza] PHP Warning:  include(assets/install/config.php): failed to open stream: No such file or directory in /home1/exbrhb80/public_html/sandbox/rbrpanel/index.php on line 2
+[02-Apr-2021 20:04:40 America/Fortaleza] PHP Warning:  include(): Failed opening 'assets/install/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/exbrhb80/public_html/sandbox/rbrpanel/index.php on line 2
+[02-Apr-2021 20:04:40 America/Fortaleza] PHP Warning:  include(assets/php/functions.php): failed to open stream: No such file or directory in /home1/exbrhb80/public_html/sandbox/rbrpanel/index.php on line 3
+[02-Apr-2021 20:04:40 America/Fortaleza] PHP Warning:  include(assets/php/functions.php): failed to open stream: No such file or directory in /home1/exbrhb80/public_html/sandbox/rbrpanel/index.php on line 3
+[02-Apr-2021 20:04:40 America/Fortaleza] PHP Warning:  include(): Failed opening 'assets/php/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/exbrhb80/public_html/sandbox/rbrpanel/index.php on line 3
+[02-Apr-2021 20:08:03 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 21:05:53 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 21:06:55 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 21:07:36 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 21:07:58 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 21:10:35 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 21:10:40 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 21:10:54 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 21:24:06 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:13:18 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:13:18 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ';' or ',' in /home1/exbrhb80/public_html/sandbox/rbrpanel/index2.php on line 213
+[02-Apr-2021 22:13:31 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:13:31 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ';' or ',' in /home1/exbrhb80/public_html/sandbox/rbrpanel/index2.php on line 213
+[02-Apr-2021 22:13:59 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:14:00 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:16:36 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:16:38 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:17:03 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:25:27 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:25:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/exbrhb80/public_html/sandbox/rbrpanel/login2.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/exbrhb80/public_html/sandbox/rbrpanel/login2.php on line 16
+[02-Apr-2021 22:26:04 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:26:52 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:26:53 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:27:41 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:27:41 America/Sao_Paulo] PHP Notice:  Undefined variable: config_base in /home1/exbrhb80/public_html/sandbox/rbrpanel/index2.php on line 21
+[02-Apr-2021 22:27:41 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home1/exbrhb80/public_html/sandbox/rbrpanel/index2.php on line 196
+[02-Apr-2021 22:28:57 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:28:57 America/Sao_Paulo] PHP Notice:  Undefined variable: config_base in /home1/exbrhb80/public_html/sandbox/rbrpanel/index2.php on line 21
+[02-Apr-2021 22:28:57 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home1/exbrhb80/public_html/sandbox/rbrpanel/index2.php on line 196
+[02-Apr-2021 22:29:39 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:29:39 America/Sao_Paulo] PHP Notice:  Undefined index:  in /home1/exbrhb80/public_html/sandbox/rbrpanel/index2.php on line 21
+[02-Apr-2021 22:29:39 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home1/exbrhb80/public_html/sandbox/rbrpanel/index2.php on line 196
+[02-Apr-2021 22:31:42 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:31:42 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home1/exbrhb80/public_html/sandbox/rbrpanel/index2.php on line 196
+[02-Apr-2021 22:32:46 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:32:46 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home1/exbrhb80/public_html/sandbox/rbrpanel/index2.php on line 196
+[02-Apr-2021 22:36:26 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:36:26 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home1/exbrhb80/public_html/sandbox/rbrpanel/index2.php on line 196
+[02-Apr-2021 22:36:35 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:36:47 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:38:07 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:38:10 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:38:10 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home1/exbrhb80/public_html/sandbox/rbrpanel/index2.php on line 196
+[02-Apr-2021 22:38:48 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:39:11 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:39:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home1/exbrhb80/public_html/sandbox/rbrpanel/login2.php:27
+Stack trace:
+#0 {main}
+  thrown in /home1/exbrhb80/public_html/sandbox/rbrpanel/login2.php on line 27
+[02-Apr-2021 22:39:15 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:39:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home1/exbrhb80/public_html/sandbox/rbrpanel/login2.php:27
+Stack trace:
+#0 {main}
+  thrown in /home1/exbrhb80/public_html/sandbox/rbrpanel/login2.php on line 27
+[02-Apr-2021 22:40:15 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:40:15 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:45:00 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:45:00 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home1/exbrhb80/public_html/sandbox/rbrpanel/index2.php on line 196
+[02-Apr-2021 22:45:01 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:47:27 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:50:07 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Apr-2021 22:50:21 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 09:39:15 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 09:39:21 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 09:39:23 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 09:39:26 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 09:39:31 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 09:39:31 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 09:42:05 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 09:43:32 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 09:49:06 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 09:49:13 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 09:49:17 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 09:54:53 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 09:57:04 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 09:57:04 America/Sao_Paulo] PHP Notice:  Undefined index: titulo_primario in /home1/exbrhb80/public_html/sandbox/rbrpanel/index2.php on line 23
+[03-Apr-2021 09:57:04 America/Sao_Paulo] PHP Notice:  Undefined index: icon in /home1/exbrhb80/public_html/sandbox/rbrpanel/index2.php on line 34
+[03-Apr-2021 09:58:01 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 10:00:59 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 10:01:52 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 17:34:05 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
