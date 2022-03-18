@@ -1,0 +1,631 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: url('../img/bg.png');
+	font-family: Segoe UI;
+	font-weight: 400;
+	text-decoration: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+#center{
+	width: 1000px;
+	margin-left: calc(50% - 500px);
+	float: left;
+}
+
+input[readonly], input[disabled]{
+	cursor: not-allowed;
+}
+
+/* LOGIN */
+#logo{
+	width: 157px;
+	height: 50px;
+	margin: 100px 0 0 calc(50% - 78.5px);
+	background: url('../img/logo.png') no-repeat;
+	float: left;
+}
+
+#box_login{
+	width: 400px;
+	height: auto;
+	position: relative;
+	margin: 15px 0 0 calc(50% - 200px);
+	background: #FFF;
+	border: 2px solid rgba(0,0,0,0.15);
+	float: left;
+}
+
+#box_login .arrow{
+	position: absolute;
+	top: -7px;
+	left: calc(50% - 2.5px);
+	border-right: 5px solid transparent;
+	border-left: 5px solid transparent;
+	border-bottom: 5px solid rgba(0,0,0,0.15);
+}
+
+#box_login #alerta{
+	width: 350px;
+	height: 0;
+	position: absolute;
+	top: 25px;
+	left: 25px;
+	border-radius: 3px;
+	font-size: 13px;
+	font-weight: bold;
+	color: rgba(0,0,0,0.4);
+	float: left;
+	overflow: hidden;
+}
+
+#box_login #form_login{
+	width: 350px;
+	height: auto;
+	margin: 25px 25px 25px 25px;
+	float: left;
+}
+
+#box_login #form_login input[type="text"], input[type="password"]{
+	width: 330px;
+	height: 25px;
+	padding: 10px;
+	margin: 5px 0 0 0;
+	border-radius: 3px;
+	border: 1px solid rgba(0,0,0,0.15);
+	outline: none;
+	font-size: 15px;
+	color: #AAA;
+	float: left;
+}
+
+#box_login #form_login .text:focus{
+	box-shadow: 0px 0px 10px -3px rgba(0,174,255,1);
+}
+
+#box_login #form_login .pin{
+	width: calc(10% - 1px);
+	height: auto;
+	padding: 10px 0 10px 0;
+	margin: 10px 0 0 1px;
+	background: #DDD;
+	border-radius: 3px;
+	text-align: center;
+	font-size: 15px;
+	color: #111;
+	opacity: 0.7;
+	transition: opacity 0.5s;
+	cursor: pointer;
+	float: left;
+}
+
+#box_login #form_login .pin:hover{
+	opacity: 1;
+}
+
+#box_login #form_login .limpar{
+	width: 328px;
+	height: 25px;
+	padding: 10px;
+	margin: 5px 0 0 0;
+	border-radius: 3px;
+	border: 1px solid rgba(0,0,0,0.15);
+	outline: none;
+	background: #DDD;
+	text-align: center;
+	font-size: 15px;
+	color: #111;
+	opacity: 0.7;
+	transition: opacity 0.5s;
+	cursor: pointer;
+	float: left;
+}
+
+#box_login #form_login .limpar:hover{
+	opacity: 1;
+}
+
+#box_login #form_login input[type="submit"]{
+	width: 350px;
+	height: 45px;
+	margin: 5px 0 0 0;
+	border-radius: 3px;
+	border: 1px solid rgba(0,0,0,0.15);
+	outline: none;
+	background: #DDD;
+	text-align: center;
+	font-size: 15px;
+	color: #111;
+	opacity: 0.7;
+	transition: opacity 0.5s;
+	cursor: pointer;
+	float: left;
+}
+
+#box_login #form_login input[type="submit"]:hover{
+	opacity: 1;
+}
+
+#creditos{
+	width: 1000px;
+	position: absolute;
+	bottom: 10px;
+	left: calc(50% - 500px);
+	text-align: center;
+	font-size: 14px;
+	float: left;
+}
+
+/* PAINEL */
+#left{
+	width: 22%;
+	height: 100%;
+	position: relative;
+	float: left;
+	overflow: hidden;
+}
+
+#left #avatar{
+	width: 150px;
+	height: 150px;
+	margin: 30px 0 0 calc(50% - 75px);
+	border-radius: 50%;
+	box-shadow: 0 0 13px -3px rgba(255, 255, 255, 0.3);
+	float: left;
+	overflow: hidden;
+}
+
+#left #avatar .avatar{
+	width: 50px;
+	height: 90px;
+	margin: 70px 0 0 15px;
+	float: left;
+}
+
+#left #data{
+	width: 150px;
+	height: auto;
+	margin: 15px 0 0 calc(50% - 75px);
+	text-align: center;
+	color: #FFF;
+	float: left;
+}
+
+#left #nav{
+	width: 100%;
+	height: auto;
+	margin: 15px 0 0 0;
+	float: left;
+}
+
+#left #nav .menu, .submenu{
+	list-style: none;
+}
+
+#left #nav .menu > li{
+	width: 100%;
+	margin: 3px 0 0 0;
+	float: left;
+}
+
+#left #nav .menu > li > a{
+	width: 100%;
+	padding: 15px 0 15px 0;
+	text-align: center;
+	font-weight: bold;
+	font-size: 15px;
+	float: left;
+	cursor: pointer;
+}
+
+#left #nav .menu .submenu{
+	width: calc(100% - 50px);
+	height: auto;
+	display: none;
+	float: right;
+}
+
+#left #nav .menu .submenu > li{
+	width: 100%;
+	margin: 1px 0 0 0;
+	float: left;
+}
+
+#left #nav .menu .submenu > li > a{
+	width: 100%;
+	padding: 10px 0 10px 0;
+	text-align: center;
+	font-size: 11px;
+	float: left;
+	cursor: pointer;
+}
+
+#left #creditoss{
+	width: calc(100% - 20px);
+	position: relative;
+	margin: 10px 0 10px 10px;
+	text-align: center;
+	font-size: 12px;
+	color: #BBB;
+	float: left;
+}
+
+#right{
+	width: calc(78% - 10px);
+	height: 100%;
+	position: relative;
+	background: #FFF;
+	float: right;
+}
+
+#right .tema{
+	width: calc(33.3% - 5px);
+	height: 330px;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin: 5px 5px 0 0;
+	position: relative;
+	float: left;
+}
+
+#right .tema input{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+#right #notificacao{
+	width: 100px;
+	height: auto;
+	position: absolute;
+	top: 15px;
+	left: 20px;
+	z-index: 99999999;
+}
+
+#right #notificacao #botao{
+	width: 50px;
+	height: 20px;
+	padding: 0 0 0 25px;
+	position: relative;
+	background: url('../img/notificacao.png') no-repeat;
+	font-size: 13px;
+	color: #FFF;
+	cursor: pointer;
+	float: left;
+}
+
+#right #notificacao #botao .new{
+	width: 15px;
+	height: 14px;
+	padding: 1px 0 0 0;
+	position: absolute;
+	left: 13px;
+	top: -10px;
+	background: #FF0000;
+	border-radius: 50%;
+	text-align: center;
+	font-size: 9px;
+	color: #FFF;
+}
+
+#right #notificacao #box{
+	width: 150px;
+	height: 150px;
+	padding: 5px;
+	position: absolute;
+	top: 27px;
+	left: -10px;
+	background: rgba(0,0,0,0.3);
+	border-radius: 3px;
+	display: none;
+}
+
+#right #notificacao #box .arrow{
+	position: absolute;
+	top: -5px;
+	left: 15px;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-bottom: 5px solid rgba(0,0,0,0.3);
+}
+
+#right #notificacao #box #over{
+	width: 100%;
+	height: 100%;
+	overflow-x: hidden;
+	float: left;
+}
+
+#right #notificacao #box #over::-webkit-scrollbar              { width:10px;	 }
+#right #notificacao #box #over::-webkit-scrollbar-button       { display:none; }
+#right #notificacao #box #over::-webkit-scrollbar-track        { display:none; }
+#right #notificacao #box #over::-webkit-scrollbar-track-piece  { display:none; }
+#right #notificacao #box #over::-webkit-scrollbar-thumb        { background:rgba(0,0,0,0.1); min-height:80px; border-radius: 5px;}
+#right #notificacao #box #over::-webkit-scrollbar-corner       { display:none; }
+#right #notificacao #box #over::-webkit-resizer                { display:none; }
+
+#right #notificacao #box #over .notificacao{
+	width: calc(100% - 10px);
+	height: auto;
+	padding: 5px;
+	border-bottom: 1px solid rgba(255,255,255,0.1);
+	font-size: 13px;
+	color: #FFF;
+	word-wrap: break-word;
+	float: left;
+}
+
+#right #diretorio{
+	width: calc(100% - 30px);
+	height: auto;
+	position: absolute;
+	padding: 15px;
+	top: 0;
+	left: 0;
+	text-align: right;
+	font-weight: bold;
+	font-size: 15px;
+	color: #FFF;
+	float: left;
+}
+
+#right #conteudo{
+	width: calc(100% - 20px);
+	height: calc(100% - 20px);
+	margin: 60px 10px 10px 10px;
+	font-size: 13px;
+	color: #444;
+	float: left;
+}
+
+#right #conteudo form{
+	width: 300px;
+	height: auto;
+	float: left;
+}
+
+#right #conteudo .text{
+	width: 280px;
+	height: 20px;
+	margin: 3px 0 5px 0;
+	padding: 10px;
+	border-radius: 3px;
+	border: 1px solid rgba(0,0,0,0.15);
+	outline: none;
+	font-size: 13px;
+	color: #AAA;
+	float: left;
+}
+
+#right #conteudo .text:focus{
+	box-shadow: 0px 0px 10px -3px rgba(0,174,255,1);
+}
+
+#right #conteudo .select{
+	width: 302px;
+	height: 42px;
+	margin: 3px 0 5px 0;
+	padding: 10px;
+	border-radius: 3px;
+	border: 1px solid rgba(0,0,0,0.15);
+	outline: none;
+	font-size: 13px;
+	color: #AAA;
+	float: left;
+}
+
+#right #conteudo .select:focus{
+	box-shadow: 0px 0px 10px -3px rgba(0,174,255,1);
+}
+
+#right #conteudo .button{
+	width: auto;
+	height: 42px;
+	padding: 10px;
+	margin: 5px 0 0 0;
+	border-radius: 3px;
+	border: 1px solid rgba(0,0,0,0.15);
+	outline: none;
+	font-size: 13px;
+	color: #FFF;
+	float: left;
+	cursor: pointer;
+	opacity: 1;
+	transition: opacity 0.5s;
+}
+
+#right #conteudo .button:hover{
+	opacity: 0.7;
+}
+
+#right #infos{
+	width: calc(100% + 5px);
+	height: auto;
+	float: left;
+}
+
+#right #info{
+	width: calc(20% - 5px);
+	height: 100px;
+	margin: 0 5px 0 0;
+	box-shadow: 3px 3px 5px rgba(0,0,0,0.1);
+	float: left;
+}
+
+#right #info .icon{
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	margin: 10px 0 0 10px;
+	float: left;
+}
+
+#right #info .info{
+	width: calc(100% - 10px);
+	margin: 5px 10px 0 10px;
+	text-align: center;
+	color: #FFF;
+	float: left;
+}
+
+#right #ckeditor{
+	width: 100%;
+	height: 1px;
+	position: relative;
+	float: left;
+}
+
+#right .texto{
+	width: calc(100% - 20px);
+	height: 350px;
+	margin: 3px 0 5px 0;
+	padding: 10px;
+	border-radius: 3px;
+	border: 1px solid rgba(0,0,0,0.15);
+	outline: none;
+	font-size: 13px;
+	color: #AAA;
+	resize: none;
+	float: left;
+}
+
+#right #avisos{
+	width: 100%;
+	height: auto;
+	margin: 15px 0 0 0;
+	float: left;
+}
+
+#right #avisos #title{
+	width: calc(100% - 27px);
+	height: 30px;
+	background: url('../img/avisos.png') 0 3px no-repeat;
+	padding: 0 0 0 27px;
+	font-size: 22px;
+	color: #CCC;
+	float: left;
+}
+
+#right #avisos #aviso{
+	width: 100%;
+	height: auto;
+	margin: 15px 0 0 0;
+	float: left;
+}
+
+#right #avisos #aviso #topo{
+	width: 100%;
+	height: auto;
+	padding: 10px 0 10px 0;
+	border-top: 1px solid rgba(0,0,0,0.05);
+	float: left;
+}
+
+#right #avisos #aviso #topo .titulo{
+	width: calc(100% - 215px);
+	font-size: 15px;
+	color: #666;
+	float: left;
+}
+
+#right #avisos #aviso #topo #visto .marcar{
+	width: auto;
+	height: auto;
+	padding: 10px 10px 12px 10px;
+	margin: -30px 5px 0 0;
+	border-radius: 3px;
+	border: 1px solid rgba(0,0,0,0.15);
+	text-align: center;
+	font-size: 13px;
+	color: #FFF;
+	cursor: pointer;
+	float: right;
+	opacity: 1;
+	transition: opacity 0.5s;
+}
+
+#right #avisos #aviso #topo #visto .marcar:hover{
+	opacity: 0.7;
+}
+
+#right #avisos #aviso #topo #visto #vistos{
+	width: calc(100% + 5px);
+	height: auto;
+	margin: 10px 0 0 0;
+	display: none;
+	float: left;
+}
+
+#right #avisos #aviso #topo #visto .vesto{
+	width: auto;
+	height: auto;
+	padding: 10px 10px 12px 10px;
+	margin: -30px 15px 0 0;
+	border-radius: 3px;
+	border: 1px solid rgba(0,0,0,0.15);
+	text-align: center;
+	font-size: 13px;
+	color: #FFF;
+	cursor: pointer;
+	float: right;
+	opacity: 1;
+	transition: opacity 0.5s;
+}
+
+#right #avisos #aviso #topo #visto .vesto:hover{
+	opacity: 0.7;
+}
+
+#right #avisos #aviso #topo #visto #vistos .visto{
+	width: auto;
+	height: auto;
+	padding: 7px;
+	margin: 5px 5px 0 0;
+	border-radius: 3px;
+	border: 1px solid rgba(0,0,0,0.15);
+	font-size: 13px;
+	color: #FFF;
+	float: left;
+	opacity: 1;
+	transition: opacity 0.5s;
+}
+
+#right #avisos #aviso #topo #vistos .visto:hover{
+	opacity: 0.7;
+}
+
+#right #avisos #aviso .texxto{
+	width: 100%;
+	font-size: 12px;
+	color: #666;
+	overflow: hidden;
+	float: left;
+}
+
+#right #paginacao{
+	width: auto;
+	height: auto;
+	margin: 10px 0 0 0;
+	float: right;
+}
+
+#right #paginacao .pag{
+	width: 30px;
+	height: auto;
+	padding: 10px 0 10px 0;
+	margin: 3px 0 0 3px;
+	background: #EEE;
+	border-radius: 3px;
+	text-align: center;
+	font-size: 13px;
+	color: #333;
+	float: left;
+}
