@@ -1,0 +1,656 @@
+[19-Jun-2016 03:58:15 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 04:03:05 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 04:03:38 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 04:03:49 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 04:05:14 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 04:05:51 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 04:06:18 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 32
+[19-Jun-2016 04:06:34 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 04:06:43 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 04:07:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 04:07:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 01:07:55 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 3
+[19-Jun-2016 01:07:55 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 4
+[19-Jun-2016 01:07:55 America/Sao_Paulo] PHP Notice:  Undefined index: pin in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 5
+[19-Jun-2016 01:07:55 America/Sao_Paulo] PHP Notice:  Undefined variable: data in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 31
+[19-Jun-2016 04:08:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 04:08:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 04:08:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 04:09:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 30
+[19-Jun-2016 01:09:43 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 3
+[19-Jun-2016 01:09:43 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 4
+[19-Jun-2016 01:09:43 America/Sao_Paulo] PHP Notice:  Undefined index: pin in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 5
+[19-Jun-2016 01:09:43 America/Sao_Paulo] PHP Fatal error:  Call to undefined function password_verify() in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 12
+[19-Jun-2016 04:09:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 04:10:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 04:12:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 04:14:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 01:14:52 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 3
+[19-Jun-2016 01:14:52 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 4
+[19-Jun-2016 01:14:52 America/Sao_Paulo] PHP Notice:  Undefined index: pin in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 5
+[19-Jun-2016 01:14:52 America/Sao_Paulo] PHP Notice:  Undefined variable: data in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 13
+[19-Jun-2016 04:15:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 20
+[19-Jun-2016 01:16:39 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 3
+[19-Jun-2016 01:16:39 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 4
+[19-Jun-2016 01:16:39 America/Sao_Paulo] PHP Notice:  Undefined index: pin in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 5
+[19-Jun-2016 01:16:39 America/Sao_Paulo] PHP Fatal error:  Call to undefined function password_verify() in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 13
+[19-Jun-2016 01:16:49 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 3
+[19-Jun-2016 01:16:49 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 4
+[19-Jun-2016 01:16:49 America/Sao_Paulo] PHP Notice:  Undefined index: pin in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 5
+[19-Jun-2016 01:16:49 America/Sao_Paulo] PHP Notice:  Undefined variable: data in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 36
+[19-Jun-2016 01:17:10 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 3
+[19-Jun-2016 01:17:10 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 4
+[19-Jun-2016 01:17:10 America/Sao_Paulo] PHP Notice:  Undefined index: pin in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 5
+[19-Jun-2016 01:17:10 America/Sao_Paulo] PHP Notice:  Undefined variable: data in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 36
+[19-Jun-2016 01:17:12 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 3
+[19-Jun-2016 01:17:12 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 4
+[19-Jun-2016 01:17:12 America/Sao_Paulo] PHP Notice:  Undefined index: pin in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 5
+[19-Jun-2016 01:17:12 America/Sao_Paulo] PHP Notice:  Undefined variable: data in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 36
+[19-Jun-2016 04:17:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 21
+[19-Jun-2016 04:18:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 21
+[19-Jun-2016 04:18:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 21
+[19-Jun-2016 04:19:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 21
+[19-Jun-2016 04:19:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 24
+[19-Jun-2016 04:20:15 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 04:20:20 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 04:20:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 24
+[19-Jun-2016 04:21:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 24
+[19-Jun-2016 04:21:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 24
+[19-Jun-2016 01:22:14 America/Sao_Paulo] PHP Notice:  Undefined variable: data in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 35
+[19-Jun-2016 01:22:50 America/Sao_Paulo] PHP Fatal error:  Call to undefined function fetch() in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 14
+[19-Jun-2016 01:23:04 America/Sao_Paulo] PHP Fatal error:  Call to undefined function fetch() in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 14
+[19-Jun-2016 01:23:29 America/Sao_Paulo] PHP Fatal error:  Call to undefined function fetch() in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 14
+[19-Jun-2016 01:24:04 America/Sao_Paulo] PHP Fatal error:  Call to undefined function fetch() in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 14
+[19-Jun-2016 01:24:56 America/Sao_Paulo] PHP Fatal error:  Call to undefined function fetch() in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 14
+[19-Jun-2016 01:25:17 America/Sao_Paulo] PHP Fatal error:  Call to undefined function fetch() in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 14
+[19-Jun-2016 01:25:34 America/Sao_Paulo] PHP Fatal error:  Call to undefined function fetch() in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 14
+[19-Jun-2016 01:26:46 America/Sao_Paulo] PHP Fatal error:  Call to undefined function fetch() in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 14
+[19-Jun-2016 01:26:49 America/Sao_Paulo] PHP Fatal error:  Call to undefined function fetch() in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 14
+[19-Jun-2016 01:27:51 America/Sao_Paulo] PHP Fatal error:  Call to undefined function fetch() in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 14
+[19-Jun-2016 01:28:12 America/Sao_Paulo] PHP Fatal error:  Call to undefined function fetch() in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 14
+[19-Jun-2016 04:28:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 01:28:50 America/Sao_Paulo] PHP Fatal error:  Call to undefined function fetch() in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 14
+[19-Jun-2016 04:29:05 UTC] PHP Notice:  Undefined variable: pdo in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 10
+[19-Jun-2016 04:29:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 10
+[19-Jun-2016 04:29:23 UTC] PHP Notice:  Undefined variable: pdo in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 10
+[19-Jun-2016 04:29:23 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 10
+[19-Jun-2016 04:29:34 UTC] PHP Notice:  Undefined variable: logar in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 04:29:46 UTC] PHP Notice:  Undefined variable: pdo in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 10
+[19-Jun-2016 04:29:46 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 10
+[19-Jun-2016 04:32:11 UTC] PHP Notice:  Undefined variable: pdo in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 10
+[19-Jun-2016 04:32:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 10
+[19-Jun-2016 04:32:26 UTC] PHP Notice:  Undefined variable: logar in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 04:35:00 UTC] PHP Notice:  Undefined variable: logar in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 04:36:04 UTC] PHP Notice:  Undefined variable: logar in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 01:36:15 America/Sao_Paulo] PHP Fatal error:  Call to undefined function fetch() in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 14
+[19-Jun-2016 01:36:48 America/Sao_Paulo] PHP Notice:  Undefined variable: logar in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 01:36:59 America/Sao_Paulo] PHP Fatal error:  Call to undefined function password_verify() in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 01:37:10 America/Sao_Paulo] PHP Fatal error:  Call to undefined function password_verify() in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 01:37:11 America/Sao_Paulo] PHP Fatal error:  Call to undefined function password_verify() in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 01:44:44 America/Sao_Paulo] PHP Fatal error:  Call to undefined function password_verify() in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 04:47:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 04:51:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 01:51:10 America/Sao_Paulo] PHP Fatal error:  Call to undefined function fetch() in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 14
+[19-Jun-2016 01:51:33 America/Sao_Paulo] PHP Fatal error:  Call to undefined function fetch() in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 14
+[19-Jun-2016 01:51:46 America/Sao_Paulo] PHP Notice:  Undefined variable: data in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 35
+[19-Jun-2016 01:51:57 America/Sao_Paulo] PHP Notice:  Undefined variable: data in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 35
+[19-Jun-2016 01:52:09 America/Sao_Paulo] PHP Notice:  Undefined variable: data in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 37
+[19-Jun-2016 01:53:08 America/Sao_Paulo] PHP Fatal error:  Call to undefined function password_verify() in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 01:53:17 America/Sao_Paulo] PHP Fatal error:  Call to undefined function password_verify() in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 01:53:28 America/Sao_Paulo] PHP Fatal error:  Call to undefined function password_hash() in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 01:54:03 America/Sao_Paulo] PHP Notice:  Undefined variable: data in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 38
+[19-Jun-2016 01:54:13 America/Sao_Paulo] PHP Notice:  Undefined variable: data in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 38
+[19-Jun-2016 01:54:34 America/Sao_Paulo] PHP Notice:  Undefined variable: data in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 38
+[19-Jun-2016 01:58:54 America/Sao_Paulo] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 11
+[19-Jun-2016 01:58:54 America/Sao_Paulo] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 11
+[19-Jun-2016 01:58:55 America/Sao_Paulo] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 11
+[19-Jun-2016 01:58:55 America/Sao_Paulo] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 11
+[19-Jun-2016 01:58:56 America/Sao_Paulo] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 11
+[19-Jun-2016 01:58:56 America/Sao_Paulo] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 11
+[19-Jun-2016 01:59:07 America/Sao_Paulo] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 11
+[19-Jun-2016 01:59:07 America/Sao_Paulo] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 11
+[19-Jun-2016 02:01:34 America/Sao_Paulo] PHP Warning:  PDOStatement::bindParam() expects at least 2 parameters, 1 given in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 8
+[19-Jun-2016 02:01:34 America/Sao_Paulo] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 11
+[19-Jun-2016 02:01:34 America/Sao_Paulo] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 11
+[19-Jun-2016 02:14:14 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 3
+[19-Jun-2016 02:14:14 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 4
+[19-Jun-2016 02:14:14 America/Sao_Paulo] PHP Notice:  Undefined index: pin in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 5
+[19-Jun-2016 02:15:23 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 3
+[19-Jun-2016 02:15:23 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 4
+[19-Jun-2016 02:17:31 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 3
+[19-Jun-2016 02:17:31 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 4
+[19-Jun-2016 02:17:37 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 3
+[19-Jun-2016 02:17:38 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 4
+[19-Jun-2016 13:16:34 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 3
+[19-Jun-2016 13:16:34 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 4
+[19-Jun-2016 13:16:34 America/Sao_Paulo] PHP Notice:  Undefined index: pin in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 5
+[19-Jun-2016 13:17:00 America/Sao_Paulo] PHP Warning:  PDO::query() [<a href='pdo.query'>pdo.query</a>]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE usuario='Cartwon' SET ultimo_time='1466353020' AND ultimo_ip='191.185.174.' at line 1 in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 13:27:34 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 3
+[19-Jun-2016 13:27:34 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 4
+[19-Jun-2016 13:27:34 America/Sao_Paulo] PHP Notice:  Undefined index: pin in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 5
+[19-Jun-2016 13:28:26 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 3
+[19-Jun-2016 13:28:26 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 4
+[19-Jun-2016 13:28:26 America/Sao_Paulo] PHP Notice:  Undefined index: pin in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 5
+[19-Jun-2016 13:28:57 America/Sao_Paulo] PHP Warning:  PDO::query() [<a href='pdo.query'>pdo.query</a>]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.174.34,1466353736) WHERE usuario='Cartwon'' at line 1 in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 13:29:57 America/Sao_Paulo] PHP Warning:  PDO::query() [<a href='pdo.query'>pdo.query</a>]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.38.2,1466353797) WHERE usuario='Cartwon'' at line 1 in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 13:32:36 America/Sao_Paulo] PHP Warning:  PDO::query() [<a href='pdo.query'>pdo.query</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$ip' in 'field list' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[19-Jun-2016 13:33:43 America/Sao_Paulo] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$ip' in 'field list' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 16
+[20-Jun-2016 23:54:06 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 01:08:04 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 11:11:53 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 11:27:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 11:31:51 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 11:32:07 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 11:34:56 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 11:34:57 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 10
+[21-Jun-2016 11:34:57 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 10
+[21-Jun-2016 11:35:59 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 11:35:59 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 10
+[21-Jun-2016 11:35:59 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 10
+[21-Jun-2016 11:36:41 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 11:36:41 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 10
+[21-Jun-2016 11:36:41 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 10
+[21-Jun-2016 14:38:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 13
+[21-Jun-2016 14:38:48 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 13
+[21-Jun-2016 14:39:17 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 13
+[21-Jun-2016 14:40:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 13
+[21-Jun-2016 14:41:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 13
+[21-Jun-2016 14:41:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 13
+[21-Jun-2016 14:41:27 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 13
+[21-Jun-2016 14:41:50 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/beatshab/public_html/bhpanel/assets/ajax/login.php on line 13
+[21-Jun-2016 11:44:39 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 18:23:24 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 18:23:31 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 18:41:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 18:43:56 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 19:21:37 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 19:22:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 19:25:54 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 20:02:35 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 22:15:43 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 22:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 23:07:37 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[21-Jun-2016 23:13:46 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[22-Jun-2016 00:20:35 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[22-Jun-2016 00:22:39 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[22-Jun-2016 12:17:24 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[22-Jun-2016 12:20:27 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[22-Jun-2016 18:57:59 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[22-Jun-2016 20:01:53 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[22-Jun-2016 20:40:51 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[22-Jun-2016 20:41:58 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[22-Jun-2016 21:24:09 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[23-Jun-2016 00:08:29 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[23-Jun-2016 00:26:24 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[23-Jun-2016 00:28:53 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[23-Jun-2016 00:55:58 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[23-Jun-2016 00:57:07 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[23-Jun-2016 01:35:58 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[23-Jun-2016 01:40:18 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[23-Jun-2016 01:44:35 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[23-Jun-2016 18:29:51 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[23-Jun-2016 19:48:03 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[23-Jun-2016 22:50:56 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[24-Jun-2016 19:11:30 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[24-Jun-2016 19:48:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[25-Jun-2016 14:10:08 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[25-Jun-2016 15:47:04 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[25-Jun-2016 16:17:12 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 00:07:51 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 00:49:31 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 00:50:01 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 00:50:12 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 00:55:23 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 01:12:02 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 01:12:13 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 01:23:00 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 01:28:24 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 01:30:10 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 01:31:56 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 01:32:13 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 01:32:33 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 02:52:23 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 02:52:23 America/Sao_Paulo] PHP Notice:  Undefined index: quarto in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 28
+[26-Jun-2016 02:52:32 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 03:00:56 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 03:02:57 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 13:16:34 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 13:17:57 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 13:22:06 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 14:12:16 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 14:13:03 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 15:47:13 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 15:49:51 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 15:50:09 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 16:18:11 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/bhpanel/assets/install/config.php on line 12
+[26-Jun-2016 19:01:40 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[26-Jun-2016 19:01:40 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[26-Jun-2016 19:02:55 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[26-Jun-2016 19:02:55 America/Sao_Paulo] PHP Notice:  Undefined index: quarto in /home/beatshab/public_html/kpanel/assets/install/config.php on line 28
+[26-Jun-2016 19:10:33 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[26-Jun-2016 19:10:43 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[26-Jun-2016 19:11:02 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[26-Jun-2016 20:46:16 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[26-Jun-2016 20:51:52 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[26-Jun-2016 20:53:48 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[26-Jun-2016 20:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[26-Jun-2016 21:47:20 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[27-Jun-2016 19:04:56 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[27-Jun-2016 19:31:34 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[27-Jun-2016 19:44:40 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[27-Jun-2016 19:49:47 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[27-Jun-2016 19:50:13 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[29-Jun-2016 00:04:22 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[29-Jun-2016 15:57:49 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[29-Jun-2016 15:59:40 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[29-Jun-2016 16:11:27 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[29-Jun-2016 16:11:28 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[29-Jun-2016 16:15:41 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel/assets/install/config.php on line 12
+[30-Jun-2016 00:53:16 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel_admin/assets/install/config.php on line 12
+[30-Jun-2016 00:59:18 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel_admin/assets/install/config.php on line 12
+[30-Jun-2016 00:59:26 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel_admin/assets/install/config.php on line 12
+[30-Jun-2016 00:59:39 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel_admin/assets/install/config.php on line 12
+[30-Jun-2016 00:59:47 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel_admin/assets/install/config.php on line 12
+[30-Jun-2016 00:59:53 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel_admin/assets/install/config.php on line 12
+[30-Jun-2016 00:59:54 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel_admin/assets/install/config.php on line 12
+[30-Jun-2016 00:59:57 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel_admin/assets/install/config.php on line 12
+[30-Jun-2016 01:01:32 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel_admin/assets/install/config.php on line 12
+[30-Jun-2016 01:02:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel_admin/assets/install/config.php on line 12
+[30-Jun-2016 01:02:44 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel_admin/assets/install/config.php on line 12
+[30-Jun-2016 01:09:11 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel_admin/assets/install/config.php on line 12
+[30-Jun-2016 01:11:44 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/beatshab/public_html/kpanel_admin/assets/install/config.php on line 12
+[02-Jul-2016 02:42:32 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 02:45:29 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 02:45:47 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 02:45:58 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 02:47:04 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 02:47:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 03:02:38 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 03:05:01 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 03:05:11 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 03:05:25 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 03:06:05 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 03:06:21 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 03:10:21 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 03:28:50 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 03:36:45 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 03:48:56 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 10:15:16 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 10:45:31 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 10:45:32 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 10:52:13 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 11:43:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:11:10 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:13:33 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:14:17 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:18:33 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:33:48 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:39:44 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:41:35 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:48:20 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:49:40 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:49:40 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:50:28 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:50:35 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:50:39 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:50:45 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:52:21 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:52:39 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:53:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:53:18 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:53:23 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:53:34 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:53:41 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:54:10 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:55:56 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 12:57:52 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:00:32 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:01:19 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:01:55 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:03:20 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:03:32 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:03:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:03:54 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:04:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:04:31 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:05:06 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:05:49 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:42:21 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:42:31 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:43:06 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:43:11 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:43:23 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:45:03 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:46:02 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:47:26 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:47:27 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:48:43 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:59:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 13:59:47 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 14:03:32 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 14:07:12 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 14:08:03 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 14:10:29 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 14:10:49 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 14:10:49 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 14:11:06 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 14:11:24 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 14:15:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 14:15:46 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 14:15:49 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 14:19:39 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 14:22:52 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 14:24:41 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 14:25:36 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 15:41:21 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 15:43:57 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 15:44:20 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 16:03:11 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 16:41:10 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 16:43:40 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 16:57:16 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 16:57:23 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 16:57:32 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:03:53 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:04:29 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:04:59 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:30:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:30:58 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:32:20 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:32:26 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:33:19 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:33:27 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:35:39 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:35:46 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:36:28 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:36:31 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:36:36 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:38:51 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:45:53 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 17:47:21 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 18:01:26 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 18:04:14 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 18:04:34 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 18:33:39 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 18:36:50 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 18:54:00 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 19:13:11 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 19:26:35 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 19:26:40 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 19:28:33 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 19:28:43 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 19:28:44 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 19:28:44 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 19:28:52 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 19:28:52 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 19:30:48 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 19:48:58 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 19:49:16 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 19:49:16 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 19:49:36 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 19:52:24 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 20:07:12 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 21:29:01 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 21:33:28 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 21:40:47 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 21:41:34 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 22:53:36 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 22:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 22:55:57 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 22:56:46 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 22:57:47 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 22:57:51 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 22:58:09 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 22:58:22 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 22:58:31 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[02-Jul-2016 23:08:33 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 00:33:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 01:05:19 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 01:05:33 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 01:05:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 01:06:55 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 01:09:23 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 10:18:00 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 10:25:28 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 10:31:16 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 10:31:43 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 10:33:14 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 10:34:21 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 10:46:26 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:03:17 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:05:56 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:06:25 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:07:09 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:07:30 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:19:47 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:24:10 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:58:18 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:58:37 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:58:48 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:58:58 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:58:58 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:59:30 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:59:37 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:59:52 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 11:59:58 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 12:04:37 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 12:11:54 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 12:12:10 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 12:12:16 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 12:12:17 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 12:21:06 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 12:24:45 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 12:25:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 12:27:39 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 12:28:56 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 12:34:58 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 12:35:26 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 12:36:25 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 13:38:49 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 13:38:57 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 14:48:56 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 15:02:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 15:04:38 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 15:13:39 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 15:55:36 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 16:17:07 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 16:47:58 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 17:30:25 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 17:36:07 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 17:41:04 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 17:45:28 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[03-Jul-2016 17:50:34 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 14:20:57 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 14:27:13 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 14:27:28 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 14:27:40 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 14:29:38 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 14:40:14 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 14:41:48 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 14:42:38 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 14:51:16 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 14:53:58 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 15:01:19 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 15:26:04 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 16:18:55 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 16:23:53 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 16:52:13 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 16:59:01 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 16:59:13 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[05-Jul-2016 16:59:43 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 19:19:47 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 19:20:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 19:23:49 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 20:13:49 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 20:56:28 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 20:57:05 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 21:04:23 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 21:08:17 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 21:08:39 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 21:21:20 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 21:26:32 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 21:53:44 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 22:14:56 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 22:22:16 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 22:22:28 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 22:36:02 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 22:36:31 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 22:43:48 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 22:44:16 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 22:44:31 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 22:44:53 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 22:52:16 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[08-Jul-2016 23:44:29 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 00:42:29 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 09:59:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 09:59:28 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 10:14:34 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 11:01:08 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 13:48:02 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 14:51:36 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 14:52:53 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 15:20:59 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 15:23:25 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 15:23:39 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 15:24:47 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 15:30:12 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 15:30:28 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 15:30:51 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 15:34:40 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 15:44:58 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 15:45:03 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 15:59:25 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 16:04:38 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 16:04:43 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 16:04:48 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 16:28:38 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 16:41:07 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 18:56:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 19:31:25 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 19:36:35 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 19:58:23 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 20:16:59 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 20:17:05 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 20:24:28 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 20:25:16 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 20:27:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 20:28:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 20:49:56 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 21:21:45 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 22:10:47 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 22:25:03 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 22:29:07 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[09-Jul-2016 22:31:45 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 02:22:03 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 03:01:02 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 09:13:12 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 09:13:21 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 10:20:33 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 11:59:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 13:15:11 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 13:15:18 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 13:18:30 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 13:22:23 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 13:25:04 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 13:46:55 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 14:34:47 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 14:48:55 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 14:49:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 15:20:41 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 15:28:46 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 15:30:21 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 15:41:31 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 15:49:49 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 15:49:57 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 16:42:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 16:59:57 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 17:24:48 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 17:27:12 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 18:06:13 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 18:06:26 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 18:31:54 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 18:42:41 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 18:48:36 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 18:49:33 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 18:50:28 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 19:02:57 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 19:07:45 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 19:24:39 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 19:34:53 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:08:01 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:10:34 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:17:45 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:17:55 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:18:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:19:59 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:24:18 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:24:25 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:24:40 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:25:40 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:28:04 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:33:26 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:42:55 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:49:47 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:50:46 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 20:53:34 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 21:28:43 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 21:46:39 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 22:03:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 22:21:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[10-Jul-2016 22:54:16 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 00:34:23 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 00:44:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 01:13:12 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 01:15:25 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 03:49:31 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 11:03:39 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 11:13:56 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 11:17:02 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 12:41:17 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 12:42:37 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 13:29:10 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 13:34:22 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 14:21:24 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 14:33:56 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 14:35:00 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 14:36:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 14:48:25 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 14:59:22 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 15:13:46 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 16:12:42 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 16:28:28 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 16:47:21 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 16:48:03 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 16:51:08 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 16:51:22 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 16:51:32 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 16:52:44 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 16:52:49 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 16:52:54 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 16:53:08 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 17:16:31 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:00:50 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:06:55 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:07:22 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:07:33 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:07:53 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:08:04 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:08:40 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:09:06 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:10:29 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:12:20 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:12:29 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:12:45 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:13:26 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:14:04 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:14:35 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:14:50 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:19:33 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:23:29 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:23:37 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:28:34 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:35:47 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:40:52 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 18:49:37 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 19:34:15 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
+[11-Jul-2016 19:41:24 America/Sao_Paulo] PHP Notice:  Undefined index: logado in /home/fstophabbo/public_html/painel/assets/install/config.php on line 12
